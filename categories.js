@@ -1,6 +1,7 @@
 const categories = [
     {
       category: "Electronics",
+      imageUrl: "https://placehold.co/600x400",
       products: [
         {
           name: "Smartphone",
@@ -66,6 +67,7 @@ const categories = [
     },
     {
       category: "Home Appliances",
+      imageUrl: "https://placehold.co/600x400",
       products: [
         {
           name: "Refrigerator",
@@ -131,6 +133,7 @@ const categories = [
     },
     {
       category: "Furniture",
+      imageUrl: "https://placehold.co/600x400",
       products: [
         {
           name: "Sofa",
@@ -196,6 +199,7 @@ const categories = [
     },
     {
       category: "Clothing",
+      imageUrl: "https://placehold.co/600x400",
       products: [
         {
           name: "T-shirt",
@@ -261,6 +265,7 @@ const categories = [
     },
     {
       category: "Beauty & Personal Care",
+      imageUrl: "https://placehold.co/600x400",
       products: [
         {
           name: "Shampoo",
@@ -326,6 +331,7 @@ const categories = [
     },
     {
       category: "Sports & Outdoors",
+      imageUrl: "https://placehold.co/600x400",
       products: [
         {
           name: "Bicycle",
@@ -391,6 +397,7 @@ const categories = [
     },
     {
       category: "Books",
+      imageUrl: "https://placehold.co/600x400",
       products: [
         {
           name: "Fiction Novel",
@@ -456,6 +463,7 @@ const categories = [
     },
     {
       category: "Toys & Games",
+      imageUrl: "https://placehold.co/600x400",
       products: [
         {
           name: "Action Figure",
@@ -521,6 +529,7 @@ const categories = [
     },
     {
       category: "Automotive",
+      imageUrl: "https://placehold.co/600x400",
       products: [
         {
           name: "Car Tires",
@@ -586,6 +595,7 @@ const categories = [
     },
     {
       category: "Garden & Outdoor",
+      imageUrl: "https://placehold.co/600x400",
       products: [
         {
           name: "Lawn Mower",
